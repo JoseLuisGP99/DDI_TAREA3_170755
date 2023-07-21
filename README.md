@@ -19,4 +19,4 @@
 | :------------: | :------------: |
 | Nombre | **Tarea 3** *Fuente, Animacion, Imagen* |
 | Descripción  | Creación de una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación  |
-|  Fecha de Carga | 21/06/23  |
+|  Fecha de Carga | 24/05/23  |
