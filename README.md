@@ -17,6 +17,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | **Tarea 3** *uente, Animacion, Imagen* |
+| Nombre | **Tarea 3** *Fuente, Animacion, Imagen* |
 | Descripción  | Creación de una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación  |
 |  Fecha de Carga | 21/06/23  |
